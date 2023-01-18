@@ -4,16 +4,16 @@ Documenting how to replace existing NPSP workflow with Flow
 This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
 
 # Project Name
-Please replace with your projects name
+NPSP Workflow Rule Migration to Flow
 
 # Project Overview
 ## Vision & Goals
 Please replace with your projects vision.
-* Goal 1
-* Goal 2
+* Replace existing out of the box NPSP Workflow Rules with Flows.
+* Document the new Flows with guidance for installation and upkeep.
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+Nonprofit
 
 ## Trailblazer Group or Slack Channel Link (access required)
 Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
@@ -33,9 +33,12 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 2. Update that wiki page with details from the Sprint. 
 3. Copy that format for the next Sprint.
 
-# Sprint (DATE): 
+# Sprint (17/18 January 2023, London (UK)): 
 ## Project Team & Accomplishments
-Add details here - what you did, links to docs if there are any, etc.
+* Built out Flows to replace Contact Email and Phone preference Workflow Rules.
+* Planned and mapped out documentation of the Flows in an MVP (minimal viable product) stage.
+* Started drafting the agreed upon documentation.
+* Compiled a Change Log (still to be finished) that can be used to log changes made to the Flows after installation.
 
 ## Contributors
 
@@ -55,6 +58,10 @@ Maurice Kollewe   | Contributor | |
 ## Future Contributions 
 (AKA what were you unable to finish at the Sprint)
 Replace with the goals your team would like to continue working on next time.
+
+* Finalise first draft of documentation.
+* Get documentation reviewed.
+* Test installation of Flows and check for any issues.
 
 ***
 
