@@ -41,8 +41,16 @@ Add details here - what you did, links to docs if there are any, etc.
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Mark Jones   | Group Leader  | https://github.com/thisismarkjones    | 
+Dan Kingsley   | Contributor   |                                                    | Enter working group name
+Vicky McLaren   | Contributor | |
+Prakash Lekshmanan   | Contributor | |
+Heather Lane   | Contributor | |
+Shannon O’Sullivan   | Contributor | |
+Anila O’Sullivan   | Contributor | |
+Gregorio Tena Leon   | Contributor | |
+Darshani Liyana   | Contributor | |
+Maurice Kollewe   | Contributor | |
 
 ## Future Contributions 
 (AKA what were you unable to finish at the Sprint)
