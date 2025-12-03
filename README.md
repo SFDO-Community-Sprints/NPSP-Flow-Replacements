@@ -1,37 +1,9 @@
-# NPSP-Flow-Replacements
+# NPSP-Flow-Replacements - Archived
 Documenting how to replace existing NPSP workflow with Flow
 
-This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
-
-# Project Name
-NPSP Workflow Rule Migration to Flow
-
-# Project Overview
-## Vision & Goals
-Please replace with your projects vision.
-* Replace existing out of the box NPSP Workflow Rules with Flows.
-* Document the new Flows with guidance for installation and upkeep.
-
-## Project Vertical
-Nonprofit
-
-## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
-
-## How to Contribute:
-- Way 1.
-- Way 2. 
-- Way 3. 
-
-## Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+## There is a new repo to continue the work of this idea. See https://github.com/SFDO-Community-Sprints/flow-replacements
 
 
-***
-BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR SPRINT PARTICIPATION. 
-1. Cut the below from the readme and paste into a new Wiki page. Delete these instructions.
-2. Update that wiki page with details from the Sprint. 
-3. Copy that format for the next Sprint.
 
 # Sprint (17/18 January 2023, London (UK)): 
 ## Project Team & Accomplishments
